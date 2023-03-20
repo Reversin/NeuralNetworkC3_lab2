@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
-      <module fileurl="file://$PROJECT_DIR$/.idea/NeuralNetworkC3_lab2.iml" filepath="$PROJECT_DIR$/.idea/NeuralNetworkC3_lab2.iml" />
-=======
       <module fileurl="file://$PROJECT_DIR$/.idea/Нейр.iml" filepath="$PROJECT_DIR$/.idea/Нейр.iml" />
->>>>>>> 384b204 (lab2)
     </modules>
   </component>
 </project>
